@@ -1,0 +1,75 @@
+# Ignore arquivos do Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+*.log
+
+## Arquivos do Rider/JetBrains
+.idea/
+*.sln.iml
+
+## Arquivos de pacotes NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+*.psmdcp
+packages/
+*.symbols.nupkg
+
+## Arquivos do sistema
+*.DS_Store
+*.Thumbs.db
+
+## Arquivos temporários
+*.tmp
+*.bak
+*.swp
+*.lock
+
+## Arquivos gerados por testes
+TestResults/
+*.coverage
+*.coveragexml
+*.testsettings
+*.vsmdi
+*.vsp
+*.vspscc
+*.vssscc
+
+## Arquivos do Azure
+.publish/
+
+## Arquivos secrets
+secrets.json
+
+## Arquivos do IIS
+*.iis*
+
+## Configurações de usuário
+*.userprefs
+
+## Arquivos de log e diagnósticos
+*.diaglog
+*.etl
+*.dmp
+
+## Dotnet CLI
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Configuração local do docker
+docker-compose.override.yml
+
+## Certificados
+*.pfx
+*.p12
+

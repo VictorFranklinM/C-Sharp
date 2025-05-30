@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media", "Media\Media.csproj", "{D86FFA03-E6AC-4177-9DD0-6DA85F4D1844}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaN", "MediaN\MediaN.csproj", "{91A2F4E5-F7D7-426E-A5DC-888FF2AEFB4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaPonderada", "MediaPonderada\MediaPonderada.csproj", "{94DD8E81-B73F-471E-A511-2AC9FEBB4841}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D86FFA03-E6AC-4177-9DD0-6DA85F4D1844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D86FFA03-E6AC-4177-9DD0-6DA85F4D1844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D86FFA03-E6AC-4177-9DD0-6DA85F4D1844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D86FFA03-E6AC-4177-9DD0-6DA85F4D1844}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91A2F4E5-F7D7-426E-A5DC-888FF2AEFB4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A2F4E5-F7D7-426E-A5DC-888FF2AEFB4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A2F4E5-F7D7-426E-A5DC-888FF2AEFB4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A2F4E5-F7D7-426E-A5DC-888FF2AEFB4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94DD8E81-B73F-471E-A511-2AC9FEBB4841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94DD8E81-B73F-471E-A511-2AC9FEBB4841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94DD8E81-B73F-471E-A511-2AC9FEBB4841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94DD8E81-B73F-471E-A511-2AC9FEBB4841}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
